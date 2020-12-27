@@ -1,0 +1,15 @@
+Elsie 1948 research R 28K Dr. William Grey Walter
+Tessman 2008 entertainment P 750K Heddatron
+C3PO 1977 humanoid M 11M Star Wars 
+Unimate 1961 industrial R 100K GM
+TheRobot 1965 fictional T 75K Lost In Space
+Opportunity 2004 aerospace R 400M NASA
+Johnny5 1986 entertainment M 9M Short Circuit
+Rosie 1962 fictional T 300K The Jetsons
+Marvin 1978 fictional B 5K The Hitchhiker's Guide to the Galaxy
+Robby 1939 fictional M 1.9M Forbidden Planet
+Myon 2015 entertainment P 500K My Square Lady
+Kitt 1982 selfDrivingVehicles T 150K Knight Rider
+BB8 2015 fictional M 245M Star Wars The Force Awakens
+AstroBoy 1952 humanoid B 298K Mighty Atom
+Aibo 1999 consumer R 1.8K Sony

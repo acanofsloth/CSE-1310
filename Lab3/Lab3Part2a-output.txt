@@ -1,0 +1,106 @@
+File found
+
+Robot Name: Elsie
+Year: 1948
+Category: research
+Source: R
+Cost: 28K
+Source Title:  Dr. William Grey Walter
+
+Robot Name: Tessman
+Year: 2008
+Category: entertainment
+Source: P
+Cost: 750K
+Source Title:  Heddatron
+
+Robot Name: C3PO
+Year: 1977
+Category: humanoid
+Source: M
+Cost: 11M
+Source Title:  Star Wars 
+
+Robot Name: Unimate
+Year: 1961
+Category: industrial
+Source: R
+Cost: 100K
+Source Title:  GM
+
+Robot Name: TheRobot
+Year: 1965
+Category: fictional
+Source: T
+Cost: 75K
+Source Title:  Lost In Space
+
+Robot Name: Opportunity
+Year: 2004
+Category: aerospace
+Source: R
+Cost: 400M
+Source Title:  NASA
+
+Robot Name: Johnny5
+Year: 1986
+Category: entertainment
+Source: M
+Cost: 9M
+Source Title:  Short Circuit
+
+Robot Name: Rosie
+Year: 1962
+Category: fictional
+Source: T
+Cost: 300K
+Source Title:  The Jetsons
+
+Robot Name: Marvin
+Year: 1978
+Category: fictional
+Source: B
+Cost: 5K
+Source Title:  The Hitchhiker's Guide to the Galaxy
+
+Robot Name: Robby
+Year: 1939
+Category: fictional
+Source: M
+Cost: 1.9M
+Source Title:  Forbidden Planet
+
+Robot Name: Myon
+Year: 2015
+Category: entertainment
+Source: P
+Cost: 500K
+Source Title:  My Square Lady
+
+Robot Name: Kitt
+Year: 1982
+Category: selfDrivingVehicles
+Source: T
+Cost: 150K
+Source Title:  Knight Rider
+
+Robot Name: BB8
+Year: 2015
+Category: fictional
+Source: M
+Cost: 245M
+Source Title:  Star Wars The Force Awakens
+
+Robot Name: AstroBoy
+Year: 1952
+Category: humanoid
+Source: B
+Cost: 298K
+Source Title:  Mighty Atom
+
+Robot Name: Aibo
+Year: 1999
+Category: consumer
+Source: R
+Cost: 1.8K
+Source Title:  Sony

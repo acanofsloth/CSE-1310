@@ -1,0 +1,187 @@
+File found
+
+Robot Name: Elsie
+Year: 1948
+Category: research
+Source: R
+Cost: 28K
+Source Title:  Dr. William Grey Walter
+
+Robot Name: Tessman
+Year: 2008
+Category: entertainment
+Source: P
+Cost: 750K
+Source Title:  Heddatron
+
+Robot Name: C3PO
+Year: 1977
+Category: humanoid
+Source: M
+Cost: 11M
+Source Title:  Star Wars 
+
+Robot Name: Unimate
+Year: 1961
+Category: industrial
+Source: R
+Cost: 100K
+Source Title:  GM
+
+Robot Name: TheRobot
+Year: 1965
+Category: fictional
+Source: T
+Cost: 75K
+Source Title:  Lost In Space
+
+Robot Name: Opportunity
+Year: 2004
+Category: aerospace
+Source: R
+Cost: 400M
+Source Title:  NASA
+
+Robot Name: Johnny5
+Year: 1986
+Category: entertainment
+Source: M
+Cost: 9M
+Source Title:  Short Circuit
+
+Robot Name: Rosie
+Year: 1962
+Category: fictional
+Source: T
+Cost: 300K
+Source Title:  The Jetsons
+
+Robot Name: Marvin
+Year: 1978
+Category: fictional
+Source: B
+Cost: 5K
+Source Title:  The Hitchhiker's Guide to the Galaxy
+
+Robot Name: Robby
+Year: 1939
+Category: fictional
+Source: M
+Cost: 1.9M
+Source Title:  Forbidden Planet
+
+Robot Name: Myon
+Year: 2015
+Category: entertainment
+Source: P
+Cost: 500K
+Source Title:  My Square Lady
+
+Robot Name: Kitt
+Year: 1982
+Category: selfDrivingVehicles
+Source: T
+Cost: 150K
+Source Title:  Knight Rider
+
+Robot Name: BB8
+Year: 2015
+Category: fictional
+Source: M
+Cost: 245M
+Source Title:  Star Wars The Force Awakens
+
+Robot Name: AstroBoy
+Year: 1952
+Category: humanoid
+Source: B
+Cost: 298K
+Source Title:  Mighty Atom
+
+Robot Name: Aibo
+Year: 1999
+Category: consumer
+Source: R
+Cost: 1.8K
+Source Title:  Sony
+
+Elsie is a robot introduced in 1948 and is a research robot in real life at Dr. William Grey Walter That cost 28K.
+
+Tessman is a robot introduced in 2008 and is a entertainment robot in the play of Heddatron That cost 750K.
+
+C3PO is a robot introduced in 1977 and is a humanoid robot in the movie of Star Wars  That cost 11M.
+
+Unimate is a robot introduced in 1961 and is a industrial robot in real life at GM That cost 100K.
+
+TheRobot is a robot introduced in 1965 and is a fictional robot on TV show of Lost In Space That cost 75K.
+
+Opportunity is a robot introduced in 2004 and is a aerospace robot in real life at NASA That cost 400M.
+
+Johnny5 is a robot introduced in 1986 and is a entertainment robot in the movie of Short Circuit That cost 9M.
+
+Rosie is a robot introduced in 1962 and is a fictional robot on TV show of The Jetsons That cost 300K.
+
+Marvin is a robot introduced in 1978 and is a fictional robot in the book of The Hitchhiker's Guide to the Galaxy That cost 5K.
+
+Robby is a robot introduced in 1939 and is a fictional robot in the movie of Forbidden Planet That cost 1.9M.
+
+Myon is a robot introduced in 2015 and is a entertainment robot in the play of My Square Lady That cost 500K.
+
+Kitt is a robot introduced in 1982 and is a selfDrivingVehicles robot on TV show of Knight Rider That cost 150K.
+
+BB8 is a robot introduced in 2015 and is a fictional robot in the movie of Star Wars The Force Awakens That cost 245M.
+
+AstroBoy is a robot introduced in 1952 and is a humanoid robot in the book of Mighty Atom That cost 298K.
+
+Aibo is a robot introduced in 1999 and is a consumer robot in real life at Sony That cost 1.8K.
+
+Research robot 1: Elsie debuted 1948 in real life from " Dr. William Grey Walter" at the cost of 28K
+Entertainment robot 2: Tessman debuted 2008 in the play " Heddatron" at the cost of 750K
+Humanoid robot 3: C3PO debuted 1977 in the movie " Star Wars " at the cost of 11M
+Industrial robot 4: Unimate debuted 1961 in real life from " GM" at the cost of 100K
+Fictional robot 5: TheRobot debuted 1965 in the TV show " Lost In Space" at the cost of 75K
+Aerospace robot 6: Opportunity debuted 2004 in real life from " NASA" at the cost of 400M
+Entertainment robot 7: Johnny5 debuted 1986 in the movie " Short Circuit" at the cost of 9M
+Fictional robot 8: Rosie debuted 1962 in the TV show " The Jetsons" at the cost of 300K
+Fictional robot 9: Marvin debuted 1978 in the book " The Hitchhiker's Guide to the Galaxy" at the cost of 5K
+Fictional robot 10: Robby debuted 1939 in the movie " Forbidden Planet" at the cost of 1.9M
+Entertainment robot 11: Myon debuted 2015 in the play " My Square Lady" at the cost of 500K
+SelfDrivingVehicles robot 12: Kitt debuted 1982 in the TV show " Knight Rider" at the cost of 150K
+Fictional robot 13: BB8 debuted 2015 in the movie " Star Wars The Force Awakens" at the cost of 245M
+Humanoid robot 14: AstroBoy debuted 1952 in the book " Mighty Atom" at the cost of 298K
+Consumer robot 15: Aibo debuted 1999 in real life from " Sony" at the cost of 1.8K
+
+Table of Robot Info
+           NAME  YEAR   COST  SOURCE           CATEGORY  TITLE
+          Elsie  1948   28K   R                Research   Dr. William Grey Walter
+        Tessman  2008   750K  P           Entertainment   Heddatron
+           C3PO  1977   11M   M                Humanoid   Star Wars 
+        Unimate  1961   100K  R              Industrial   GM
+       TheRobot  1965   75K   T               Fictional   Lost In Space
+    Opportunity  2004   400M  R               Aerospace   NASA
+        Johnny5  1986   9M    M           Entertainment   Short Circuit
+          Rosie  1962   300K  T               Fictional   The Jetsons
+         Marvin  1978   5K    B               Fictional   The Hitchhiker's Guide to the Galaxy
+          Robby  1939   1.9M  M               Fictional   Forbidden Planet
+           Myon  2015   500K  P           Entertainment   My Square Lady
+           Kitt  1982   150K  T     SelfDrivingVehicles   Knight Rider
+            BB8  2015   245M  M               Fictional   Star Wars The Force Awakens
+       AstroBoy  1952   298K  B                Humanoid   Mighty Atom
+           Aibo  1999   1.8K  R                Consumer   Sony
+
+Research robot 1: Elsie debuted 1948 in real life from " Dr. William Grey Walter" at the cost of $28000.0
+Entertainment robot 2: Tessman debuted 2008 in the play " Heddatron" at the cost of $750000.0
+Humanoid robot 3: C3PO debuted 1977 in the movie " Star Wars " at the cost of $1.1E7
+Industrial robot 4: Unimate debuted 1961 in real life from " GM" at the cost of $100000.0
+Fictional robot 5: TheRobot debuted 1965 in the TV show " Lost In Space" at the cost of $75000.0
+Aerospace robot 6: Opportunity debuted 2004 in real life from " NASA" at the cost of $4.0E8
+Entertainment robot 7: Johnny5 debuted 1986 in the movie " Short Circuit" at the cost of $9000000.0
+Fictional robot 8: Rosie debuted 1962 in the TV show " The Jetsons" at the cost of $300000.0
+Fictional robot 9: Marvin debuted 1978 in the book " The Hitchhiker's Guide to the Galaxy" at the cost of $5000.0
+Fictional robot 10: Robby debuted 1939 in the movie " Forbidden Planet" at the cost of $1900000.0
+Entertainment robot 11: Myon debuted 2015 in the play " My Square Lady" at the cost of $500000.0
+SelfDrivingVehicles robot 12: Kitt debuted 1982 in the TV show " Knight Rider" at the cost of $150000.0
+Fictional robot 13: BB8 debuted 2015 in the movie " Star Wars The Force Awakens" at the cost of $2.45E8
+Humanoid robot 14: AstroBoy debuted 1952 in the book " Mighty Atom" at the cost of $298000.0
+Consumer robot 15: Aibo debuted 1999 in real life from " Sony" at the cost of $1800.0
+
